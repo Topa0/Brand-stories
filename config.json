@@ -1,0 +1,8 @@
+{
+  "cards": [
+    { "image": "assets/story1.jpg", "title": "品牌故事 1", "description": "这是品牌故事 1 的描述", "link": "h5/story1.html" },
+    { "image": "assets/story2.jpg", "title": "品牌故事 2", "description": "这是品牌故事 2 的描述", "link": "h5/story2.html" },
+    { "image": "assets/story3.jpg", "title": "品牌故事 3", "description": "这是品牌故事 3 的描述", "link": "h5/story3.html" },
+    { "image": "assets/story4.jpg", "title": "品牌故事 4", "description": "这是品牌故事 4 的描述", "link": "h5/story4.html" }
+  ]
+}
